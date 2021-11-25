@@ -1,3 +1,7 @@
+/*My Edits*/
+body{align-items: center !important; justify-content: center !important; display: flex !important; height:700px !important}
+::-webkit-scrollbar{display:none}
+
 html, body {
   margin: 0;
   padding: 0;
